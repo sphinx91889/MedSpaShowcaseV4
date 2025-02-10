@@ -66,11 +66,7 @@ function App() {
                 <h1 className="text-4xl max-w-2xl text-white drop-shadow-lg font-body italic mb-4">
                   Experience the perfect blend of relaxation and rejuvenation.
                 </h1>
-                <a href="/appointment"
-  className="px-6 py-3 bg-light-brown text-white rounded-full text-xl hover:bg-light-brown/90 transition duration-300"
->
-  Schedule a Consultation
-</a>
+                
 
               </div>
             </header>
