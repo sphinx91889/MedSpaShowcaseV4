@@ -27,7 +27,7 @@ const BodyContouringPage = () => {
       <div className="container mx-auto px-6 py-16">
         <div className="flex flex-col md:flex-row items-center gap-12">
           <img
-            src="https://macflorida.com/assets/img/feature/home/body.jpg"
+            src="https://coastalaesthetic.com/wp-content/uploads/AdobeStock_507600380-2048x1155.webp"
             alt="Body Contouring"
             className="w-full md:w-1/2 rounded-lg shadow-lg object-cover"
           />
