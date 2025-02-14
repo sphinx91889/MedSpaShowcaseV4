@@ -59,7 +59,7 @@ function App() {
               <div className="absolute inset-0 bg-black opacity-40"></div>
               <div className="absolute inset-0 flex flex-col justify-center items-center text-center p-8">
                 <img
-                  src="https://i.imghippo.com/files/hiJv8783zTg.png"
+                  src="https://t1e.afa.myftpupload.com/wp-content/uploads/2025/02/EXAMPLUS-LOGO-BLACK-TRANS.png"
                   alt="Examplus Medical Spa Logo"
                   className="max-w-[300px] h-auto mb-4 filter brightness-0 invert drop-shadow-lg"
                 />
